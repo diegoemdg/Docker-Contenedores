@@ -1,0 +1,16 @@
+﻿# Archivos compilados
+*.o
+*.exe
+
+# Carpetas generadas
+bin/
+obj/
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db

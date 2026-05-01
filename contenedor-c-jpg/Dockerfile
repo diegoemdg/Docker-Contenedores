@@ -9,3 +9,4 @@ WORKDIR /usr/src/app
 COPY . .
 
 CMD make
+

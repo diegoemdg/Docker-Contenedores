@@ -8,3 +8,4 @@ COPY . .
 
 CMD python src/image_generator.py
 
+

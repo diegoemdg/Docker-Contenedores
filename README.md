@@ -34,3 +34,4 @@ docker run -ti --rm -v "${PWD}:/usr/src/app" generador-png
 - contenedor-c-jpg/output/mandelbrot.jpg
 - contenedor-python-png/output/gradiente.png
 - contenedor-python-png/output/circulos.png
+

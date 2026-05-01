@@ -14,6 +14,12 @@ Programa en Python que genera imagenes PNG con gradientes y circulos.
 - Docker Desktop instalado
 - WSL 2 habilitado (Windows)
 
+## Instalación
+```bash
+git clone https://github.com/diegoemdg/Docker-Contenedores.git
+cd Docker-Contenedores
+```
+
 ## Uso
 
 ### Contenedor C
